@@ -1,1 +1,2 @@
 # Recommender_System
+This is the source code for machine learning course final project. We built a recommender system based on the data set in kaggle competition about H&M. We mainly applied content based filtering method and compared with popularity method plus ranking with light gradient boosting. In content based filtering we used text data, image data and tabular data to find similar products with different embedding such as vgg16 for image and bert, TFIDF for text.
